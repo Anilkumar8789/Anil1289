@@ -10,7 +10,7 @@ class childemployee(employee1):
         self.age = age
         self.salary = salary
         self.id = id
-    emp1 = employee1('lakshman',22,1000)
+    emp1 = employee1('anil',22,1000)
     print(emp1.age)
     print(emp1.name)
     print(emp1.salary)
