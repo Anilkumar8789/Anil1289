@@ -16,8 +16,8 @@ class childenginer2(engineer):
         self.age = age
         self.salary = salary
 
-eng1 = engineer('lakshman',18,50000)
-eng2 = engineer('ramu',19,100000)
+eng1 = engineer('anil',18,50000)
+eng2 = engineer('praveen',19,100000)
 
 print(eng1.name)
 print(eng1.age)
