@@ -19,8 +19,8 @@ class childworker(worker1,worker2):
         self.salary = salary
         self.id = id
 
-    work1 = worker1('lakshman',20,50000)
-    work2 = worker2('ramu',21,100000,436873416694)
+    work1 = worker1('anil',20,50000)
+    work2 = worker2('praveen',21,100000,436873416694)
 
     print(work1.name)
     print(work1.age)
